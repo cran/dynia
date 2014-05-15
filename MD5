@@ -1,0 +1,16 @@
+ae135ed9a22256bb942e54ae57cd04b0 *DESCRIPTION
+6aba97cbaf0084d33f8857aa0c3554b3 *NAMESPACE
+8f98cb36d64483b92534f25ae19e5b4f *R/GetIntMod.R
+527357b5580c30792ae082fdb3a7319e *R/GetLikeDI.R
+b5d240d5f121e45f34350d773a180b02 *R/GetPV.R
+593a606d6047b31c7dadd06e0175c641 *R/fitdi.R
+438b295c2fc786008f64c70411f0fa9e *R/print.dynia.R
+33f0b2381732ad99fd26139ef676973d *data/Nile.rda
+fffe1d3addbd47f97446be23f597fd3c *data/casualties.rda
+fd6837ad2d0a862073a79b16f590bc8e *man/GetIntMod.Rd
+f28bc017c7ca6ddd7b30e242177cf5a1 *man/GetLikeDI.Rd
+8977b77616fffb4016033e0b5b81d624 *man/GetPV.Rd
+bfbb7bba7ec1e2064317b35d0b2590d7 *man/Nile.Rd
+c3f0ec137253961eabdae5127bab8375 *man/casualties.Rd
+d9acf95e6dafb05619c1a054ee03144c *man/fitdi.Rd
+d69aa1b2900cb1e8dbf7c745f89e3506 *man/print.dynia.Rd
